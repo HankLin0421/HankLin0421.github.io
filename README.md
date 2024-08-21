@@ -1,4 +1,4 @@
-Link
+Furniture Online Shop
 ===
 ![主頁](./image/main.png "主頁")
 
